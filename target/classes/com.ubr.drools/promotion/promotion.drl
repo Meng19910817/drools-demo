@@ -1,0 +1,50 @@
+package com.ubr.drools.promotion
+
+import java.util.ArrayList;
+import com.ubr.drools.pojo.*;
+
+rule "original amount"
+    salience 99
+    no-loop true
+    when
+        $check : Check()
+    then
+        System.out.println("Original amount : $" + $check.getTotalAmount());
+    end
+
+rule "10% off"
+    salience 3
+    no-loop true
+    when
+        $check: Check($totalAmount:totalAmount, $totalAmount > 0);
+    then
+        $check.setDiscountAmount(($check.getDiscountAmount() == 0 ? $check.getTotalAmount() : $check.getDiscountAmount()) * 0.9);
+        update($check)
+        System.out.println("After 10% off, the amount is $" + $check.getDiscountAmount());
+end
+
+rule "Buy 3 get 1 free"
+    salience 2
+    no-loop true
+    lock-on-active true
+    when
+        $check: Check($productLineList: productLines)
+        $productLine: ProductLine(number >= 3) from $productLineList
+
+    then
+        $check.setDiscountAmount((($check.getDiscountAmount() == 0 ? $check.getTotalAmount() : $check.getDiscountAmount()) - (1 * $productLine.getProduct().getAmount())));
+        update($check)
+        System.out.println("After buy 3 get 1 free, the amount is " + $check.getDiscountAmount());
+
+end
+
+rule "Over 100 minus 10"
+    salience 1
+    no-loop true
+    when
+        $check :Check($totalAmount:totalAmount, ($totalAmount - 100) >= 0)
+    then
+        $check.setDiscountAmount($check.getDiscountAmount() == 0 ? $check.getTotalAmount() : $check.getDiscountAmount() - 10);
+        update($check)
+        System.out.println("Over 100 minus 10, the amount is " + $check.getDiscountAmount());
+end

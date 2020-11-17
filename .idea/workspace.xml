@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1721f92e-5936-4d38-b31d-15ab0647529b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kmodule.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDecisionTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestDecisionTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promotion.drl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion/promotion.drl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="76" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNewPromotion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestNewPromotion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductLine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/ProductLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Check.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Check.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PromotionType</find>
+      <find>number</find>
+      <find>printf</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/util/OutputDisplay.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/Testlesson1.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/ubr/retail/promotion.drl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/util/KnowledgeSessionHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion.drl.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion.drl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionPeriod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Promotion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/newPromotion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/ProductLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/newCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/buyAndRefund/buyAndRefund.drl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/util/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/check.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/error.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/correct.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/drl/correct/correct.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/decision.drl" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/TestDecisionTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/planB/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/planB/newCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/planB/ProductLine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/TestPromotion.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/buyAndRefund/buyAndRefund1.drl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Check.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/attributes/attributes.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/attribute/attributes.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/example/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/TestAttribute.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/TestApple.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/apple/apple.drl" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/attribute/attribute.drl" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ubr/drools/TestNewPromotion.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion/promotion.drl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven_pro/urb" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven_pro/m2repository/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UbrDroolsDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UbrDroolsDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="50" />
+    <option name="y" value="28" />
+    <option name="width" value="1224" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="drools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="drools" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com.ubr.drools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubr-drools-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubr-drools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="drools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Bide&#9;PSI&#9;JAVA://java.math.BigDecimal&#10;kmodulemodel&#9;PSI&#9;JAVA://org.drools.compiler.kproject.models.KieModuleModelImpl" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Drools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ubr.drools.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/drl/correct" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/drl" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/correct" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDecisionTable.testDecisionTableRules1">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestAttribute.testNoLoop1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drools-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubr.drools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubr.drools" />
+      <option name="MAIN_CLASS_NAME" value="com.ubr.drools.TestAttribute" />
+      <option name="METHOD_NAME" value="testNoLoop1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestDecisionTable.testDecision1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drools-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubr.drools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubr.drools" />
+      <option name="MAIN_CLASS_NAME" value="com.ubr.drools.TestDecisionTable" />
+      <option name="METHOD_NAME" value="testDecision1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestDecisionTable.testDecisionTableRules1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drools-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubr.drools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubr.drools" />
+      <option name="MAIN_CLASS_NAME" value="com.ubr.drools.TestDecisionTable" />
+      <option name="METHOD_NAME" value="testDecisionTableRules1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestNewPromotion.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drools-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubr.drools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubr.drools" />
+      <option name="MAIN_CLASS_NAME" value="com.ubr.drools.TestNewPromotion" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestNewPromotion.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drools-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubr.drools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubr.drools" />
+      <option name="MAIN_CLASS_NAME" value="com.ubr.drools.TestNewPromotion" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestAttribute.testNoLoop1" />
+      <item itemvalue="JUnit.TestNewPromotion.test1" />
+      <item itemvalue="JUnit.TestNewPromotion.test3" />
+      <item itemvalue="JUnit.TestDecisionTable.testDecision1" />
+      <item itemvalue="JUnit.TestDecisionTable.testDecisionTableRules1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDecisionTable.testDecisionTableRules1" />
+        <item itemvalue="JUnit.TestDecisionTable.testDecision1" />
+        <item itemvalue="JUnit.TestNewPromotion.test3" />
+        <item itemvalue="JUnit.TestNewPromotion.test1" />
+        <item itemvalue="JUnit.TestAttribute.testNoLoop1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1721f92e-5936-4d38-b31d-15ab0647529b" name="Default" comment="" />
+      <created>1604035281400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604035281400</updated>
+      <workItem from="1604035285151" duration="3533000" />
+      <workItem from="1604285281716" duration="949000" />
+      <workItem from="1604286237533" duration="698000" />
+      <workItem from="1604286972160" duration="1817000" />
+      <workItem from="1604289439236" duration="58052000" />
+      <workItem from="1604539899746" duration="513000" />
+      <workItem from="1604544628729" duration="611000" />
+      <workItem from="1604558558432" duration="1055000" />
+      <workItem from="1605167968105" duration="1526000" />
+      <workItem from="1605245244915" duration="947000" />
+      <workItem from="1605579496997" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestApple_testFindYellowApple - 2020.11.04 at 15h 34m 44s.xml">
+      <configuration name="TestApple.testFindYellowApple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAttribute_testGlobalVariable - 2020.11.04 at 15h 37m 46s.xml">
+      <configuration name="TestAttribute.testGlobalVariable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAttribute_testAgendaGroup - 2020.11.04 at 15h 40m 36s.xml">
+      <configuration name="TestAttribute.testAgendaGroup" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAttribute_testSalience - 2020.11.04 at 15h 41m 52s.xml">
+      <configuration name="TestAttribute.testSalience" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAttribute_testNoLoop1 - 2020.11.04 at 15h 44m 16s.xml">
+      <configuration name="TestAttribute.testNoLoop1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAttribute_testNoLoop1 - 2020.11.04 at 15h 45m 13s.xml">
+      <configuration name="TestAttribute.testNoLoop1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNewPromotion_test1 - 2020.11.04 at 16h 01m 11s.xml">
+      <configuration name="TestNewPromotion.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNewPromotion_test3 - 2020.11.04 at 16h 02m 01s.xml">
+      <configuration name="TestNewPromotion.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDecisionTable_testDecision1 - 2020.11.04 at 16h 08m 16s.xml">
+      <configuration name="TestDecisionTable.testDecision1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDecisionTable_testDecisionTableRules1 - 2020.11.04 at 16h 10m 07s.xml">
+      <configuration name="TestDecisionTable.testDecisionTableRules1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69743000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="50" y="28" width="1224" height="752" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39873418" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29222974" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32941177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40664557" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32753164" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>kieSession.getAgenda().getAgendaGroup(&quot;2020-11-02 promotion&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>agenda.isAlive()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.agenda.fireAllRules( agendaFilter, fireLimit )</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>kieContainer.newKieSession(&quot;all-rules&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.objectStore.getHandleForObject( object )</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>insert</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>KnowledgeSessionHelper
+                .getStatefulKnowledgeSession(kieContainer, &quot;fullReductionSession&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sessionStatefull</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/common/ClassAwareObjectStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/common/NamedEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-compiler/7.45.0.Final/drools-compiler-7.45.0.Final.jar!/org/drools/compiler/kproject/models/KieModuleModelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/util/KnowledgeSessionHelper.java" />
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/runtime/rule/impl/DefaultConsequenceExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/kie/kie-api/7.45.0.Final/kie-api-7.45.0.Final-sources.jar!/org/kie/api/runtime/rule/StatefulRuleSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/phreak/RuleExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="430" column="30" lean-forward="true" selection-start-line="430" selection-start-column="30" selection-end-line="430" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/spi/Consequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/kie/kie-api/7.45.0.Final/kie-api-7.45.0.Final-sources.jar!/org/kie/api/runtime/KieRuntime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/concurrent/AbstractRuleEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/concurrent/SequentialRuleEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1049" selection-start-line="1049" selection-end-line="1049" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="269" column="67" lean-forward="true" selection-start-line="269" selection-start-column="67" selection-end-line="269" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionPeriod.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Promotion.java" />
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/common/CompositeDefaultAgenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="126" column="44" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/common/InternalAgenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="183" column="8" selection-start-line="183" selection-start-column="8" selection-end-line="183" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-compiler/7.45.0.Final/drools-compiler-7.45.0.Final.jar!/org/drools/compiler/kie/builder/impl/KieContainerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="551" selection-start-line="551" selection-end-line="551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/newPromotion.java" />
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-decisiontables/7.45.0.Final/drools-decisiontables-7.45.0.Final.jar!/org/drools/decisiontable/SpreadsheetCompiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-decisiontables/7.45.0.Final/drools-decisiontables-7.45.0.Final-sources.jar!/org/drools/decisiontable/SpreadsheetCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-core/7.45.0.Final/drools-core-7.45.0.Final-sources.jar!/org/drools/core/io/impl/ClassPathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/drl/error.drl" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/drl/correct/correct.drl" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/check.drl" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/decision/decision.drl" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/PromotionType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion/promotion.drl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-606">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestPromotion.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/example/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/apple/apple.drl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="91" column="44" lean-forward="true" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/util/OutputDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/util/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/example/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="64" column="68" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/attribute/attribute.drl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_pro/urb/org/drools/drools-decisiontables/7.45.0.Final/drools-decisiontables-7.45.0.Final-sources.jar!/org/drools/decisiontable/InputType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/ProductLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.ubr.drools/promotion/promotion.drl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="76" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestDecisionTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubr/drools/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ubr/drools/TestNewPromotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UbrDroolsDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.virtuald:curvesapi:1.06</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
