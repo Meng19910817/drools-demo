@@ -1,4 +1,4 @@
-package com.ubr.drools.util;
+package com.mengyu.drools.util;
 
 import org.kie.api.KieServices;
 import org.kie.api.runtime.KieContainer;

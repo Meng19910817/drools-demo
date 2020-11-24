@@ -1,6 +1,6 @@
-package com.ubr.drools.apple
+package com.mengyu.drools.apple
 
-import  com.ubr.drools.pojo.example.Apple;
+import  com.mengyu.drools.pojo.example.Apple;
 import java.util.ArrayList
 
 rule "Create an apple1"

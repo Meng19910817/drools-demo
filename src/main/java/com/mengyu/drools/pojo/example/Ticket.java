@@ -1,4 +1,4 @@
-package com.ubr.drools.pojo.example;
+package com.mengyu.drools.pojo.example;
 
 /**
  * @author zoumengyu

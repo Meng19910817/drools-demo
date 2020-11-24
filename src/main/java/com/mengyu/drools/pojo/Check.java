@@ -1,4 +1,4 @@
-package com.ubr.drools.pojo;
+package com.mengyu.drools.pojo;
 
 import java.util.List;
 

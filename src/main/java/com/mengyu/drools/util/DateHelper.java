@@ -1,4 +1,4 @@
-package com.ubr.drools.util;
+package com.mengyu.drools.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

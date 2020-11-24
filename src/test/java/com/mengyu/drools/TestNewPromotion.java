@@ -1,9 +1,9 @@
-package com.ubr.drools;
+package com.mengyu.drools;
 
-import com.ubr.drools.pojo.Check;
-import com.ubr.drools.pojo.Product;
-import com.ubr.drools.pojo.ProductLine;
-import com.ubr.drools.util.BaseTest;
+import com.mengyu.drools.pojo.Check;
+import com.mengyu.drools.pojo.Product;
+import com.mengyu.drools.pojo.ProductLine;
+import com.mengyu.drools.util.BaseTest;
 import org.junit.Test;
 import org.kie.api.runtime.KieSession;
 
